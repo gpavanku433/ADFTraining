@@ -10,10 +10,6 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"folderPath": {
-					"value": "@concat('Destination')",
-					"type": "Expression"
-				},
 				"container": "hrp"
 			},
 			"columnDelimiter": ",",
