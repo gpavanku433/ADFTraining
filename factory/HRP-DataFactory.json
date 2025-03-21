@@ -1,0 +1,9 @@
+{
+	"name": "HRP-DataFactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a161cf81-a06e-46ab-998e-106e7f7136c6",
+		"tenantId": "d20fde9c-ec6d-4567-91a2-4a2a36f279d7"
+	}
+}

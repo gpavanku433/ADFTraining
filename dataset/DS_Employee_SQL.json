@@ -1,0 +1,17 @@
+{
+	"name": "DS_Employee_SQL",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_HRP",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "Employee"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
